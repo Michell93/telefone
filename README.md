@@ -1,4 +1,4 @@
-<img src="./screenshot.png" alt="Telefone">
+<img src="./screenshot.png" width="540px" height="380px" alt="Telefone">
 
 # Telefone
 
